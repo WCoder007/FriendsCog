@@ -48,8 +48,8 @@
 
                 {% for todo in todos %}
                 <tr>
-                  <td>{{forloop.counter}}</td>
-                  <td>{{todo.title}}</td>
+                  <td style="font-weight:500;">{{forloop.counter}}</td>
+                  <td style="font-weight:500;">{{todo.title}}</td>
                   <td>
                     {% if todo.status == 'C'%}
                     ✅
