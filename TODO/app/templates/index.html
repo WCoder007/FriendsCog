@@ -5,9 +5,9 @@
     <div class="row  p-0 mt-4">
       <div class="col-lg-4 mx-auto shadow p-0">
         <div class="alert alert-info">
-          <h2>Add New TODO</h2>
+          <h2>Add New Task!</h2>
         </div>
-        <div class="p-4">
+        <div class="p-4" style="background-color: #46A29F;">
           <form action="/add-todo/" method="POST">
             {% csrf_token %}
             {{form.as_p}}
@@ -26,19 +26,19 @@
             <br>
             <br>
             <div class="alert alert-info text-center">
-              <p class="" style="font-size: 30px;">No Todos</p>
+              <p class="" style="font-size: 30px;">No Tasks for today!!</p>
             </div>
             <br>
             <br>
           </div>
 
           {%else%}
-          <div>
+          <div style="background-color: #46A29F;">
             <table class="table">
               <thead>
                 <tr>
                   <th>#</th>
-                  <th>Title</th>
+                  <th>Tasks</th>
                   <th>Status</th>
                   <th>Action</th>
                 </tr>

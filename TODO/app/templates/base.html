@@ -14,9 +14,15 @@
 </head>
 
 <body>
+    <style>
+        body{
+            background-color: #80d1ce;
+        }
+    </style>
     <!-- navabar start -->
+    <div>
     <nav class="navbar navbar-expand-lg  navbar-dark bg-dark">
-        <a class="navbar-brand" href="/"><h4>FriendsCog </h4><br/> Lets develop together!</a>
+        <a class="navbar-brand" href="/"><h2>FriendsCog </h2> Lets motivate eachother!</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -25,15 +31,16 @@
             <ul class="navbar-nav ml-auto">
 
                 {% if request.user.is_authenticated %}
-                <li class="nav-item">
-                    <a class="nav-link" href="/logout">Logout</a>
-                </li>
+                
                 <li class="nav-item">
                     <a class="nav-link" href="/calender">
                     Calender</a>
                 <li class="p-2">
                     <a class="p-5" href="/leaderboard">
                     Leaderboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/logout" style="color: red;">Logout</a>
                 </li>
                  
                 </li>
@@ -53,6 +60,7 @@
             </ul>
         </div>
     </nav>
+    
     <!-- changing coontent -->
     <div>
         {% block content %}
