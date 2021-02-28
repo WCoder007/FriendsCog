@@ -3,7 +3,7 @@
 
 Team T.R.I.A.D 's entry for Hackverse 2.0
 
-## Idea
+## Description
 In the times of pandemic we all are secluded from each other and it is very frequent that we feel demotivated. This app helps you to stay in touch with your friends and keep themselves motivated so that everyone can prosper together. It helps in achieving a positive and competitive environment so that we can together complete our tasks.It will encourage and motivate you to complete your tasks as you can see your ranks in the leaderboard and compete to stay on top. It also helps one to cope up with the loneliness and helps induce a sense of well being like the word cog means!!
 
 ## Tracks
