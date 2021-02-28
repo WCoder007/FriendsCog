@@ -4,7 +4,7 @@ Team T.R.I.A.D 's entry for Hackverse 2.0
 ## Idea
 A web app that helps friends connect and motivate each other to complete their tasks with the added help of a leaderboard with friendly competition.
 
-## Track
+## Tracks
 * Let's Connect
 * Let's Go Contactless
 
@@ -36,7 +36,7 @@ Follow the instructions below to run the application:
 4. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
 
 ## Screenshot
-file:///home/pooja/Downloads/WhatsApp%20Image%202021-02-28%20at%205.52.31%20AM.jpeg![image](https://user-images.githubusercontent.com/56690803/109407841-2e1d3780-79aa-11eb-830c-d837a7b21b63.png)
+[image](https://user-images.githubusercontent.com/56690803/109407841-2e1d3780-79aa-11eb-830c-d837a7b21b63.png)
 
 
 
