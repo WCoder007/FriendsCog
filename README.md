@@ -29,6 +29,7 @@ In the times of pandemic we all are secluded from each other and it is very freq
 
 Follow the instructions below to run the application:
 1. Clone the repository 
+    
     `git clone https://github.com/WCoder007/FriendsCog.git`
  
 2. install all dependancies, preferably in a virtual environment.
