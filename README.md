@@ -4,8 +4,13 @@ Team T.R.I.A.D 's entry for Hackverse 2.0
 ## Idea
 A web app that helps friends connect and motivate each other to complete their tasks with the added help of a leaderboard with friendly competition.
 
+## Track
+* Let's Connect
+* Let's Go Contactless
+
 ## What Should the App Be Able To Do?
 * Allow users to record the tasks to be completed
+* A separate task manager for every user to keep a track of their progress
 * Send the user notifications to remind them to complete their tasks
 * Live leaderboard of friends to see what percentage of tasks are completed
 * Rewards/Achievements/Badges
@@ -14,8 +19,8 @@ A web app that helps friends connect and motivate each other to complete their t
 ## TechStack
 * HTML
 * CSS
-* JS
-* Djando
+* Javascript
+* Django
 * Python
 
 ## Installation Steps
