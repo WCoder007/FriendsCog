@@ -35,4 +35,8 @@ Follow the instructions below to run the application:
     `python manage.py runserver`
 4. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
 
+## Screenshot
+file:///home/pooja/Downloads/WhatsApp%20Image%202021-02-28%20at%205.52.31%20AM.jpeg![image](https://user-images.githubusercontent.com/56690803/109407841-2e1d3780-79aa-11eb-830c-d837a7b21b63.png)
+
+
 
