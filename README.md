@@ -46,19 +46,20 @@ Follow the instructions below to run the application:
 ## Screenshots
 
 Login Page
-![Screenshot_2021-02-28 FriendsCog](https://user-images.githubusercontent.com/56317982/109408537-b1418c00-79b0-11eb-8ded-efcc1dfa68b2.png)
+![Screenshot_2021-02-28 FriendsCog(2)](https://user-images.githubusercontent.com/56317982/109409100-bc4aeb00-79b5-11eb-9a4c-c62b3607a7a9.png)
 
 SignUp Page
-![Screenshot_2021-02-28 FriendsCog(1)](https://user-images.githubusercontent.com/56317982/109408541-bacaf400-79b0-11eb-8b68-81491c1a9379.png)
+![Screenshot_2021-02-28 FriendsCog](https://user-images.githubusercontent.com/56317982/109409105-cbca3400-79b5-11eb-902d-f7a1d2d61818.png)
 
 Task Manager
-![WhatsApp Image 2021-02-28 at 5 52 31 AM](https://user-images.githubusercontent.com/56317982/109408547-c61e1f80-79b0-11eb-8bb9-bcdbf7a88a19.jpeg)
+![Screenshot_2021-02-28 FriendsCog(1)](https://user-images.githubusercontent.com/56317982/109409113-dc7aaa00-79b5-11eb-8efb-cea1647090d6.png)
 
 Leaderboard
-![WhatsApp Image 2021-02-28 at 5 57 40 AM](https://user-images.githubusercontent.com/56317982/109408552-cdddc400-79b0-11eb-8231-9fd24966b81d.jpeg)
+![Screenshot_2021-02-28 FriendsCog(3)](https://user-images.githubusercontent.com/56317982/109409118-e56b7b80-79b5-11eb-827c-cec07c33af56.png)
 
 Calender
-![WhatsApp Image 2021-02-28 at 5 52 32 AM](https://user-images.githubusercontent.com/56317982/109408555-d504d200-79b0-11eb-9418-664641870041.jpeg)
+![Screenshot_2021-02-28 FriendsCog(4)](https://user-images.githubusercontent.com/56317982/109409123-ebf9f300-79b5-11eb-9456-f29e4f858d03.png)
+
 
 
 
