@@ -28,14 +28,17 @@ In the times of pandemic we all are secluded from each other and it is very freq
 ## Installation Steps
 
 Follow the instructions below to run the application:
-1. Clone the repository and install all dependancies, preferably in a virtual environment.
+1. Clone the repository 
+  
+  `git clone`
+2. install all dependancies, preferably in a virtual environment.
 
-    `pip install -r requirements.txt`
-2. cd TODO
-3. Run the application
+    `python -m pip install Django`
+3. cd TODO
+4. Run the application
 
     `python manage.py runserver`
-4. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
+5. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
 
 ## Future Plannings
 
