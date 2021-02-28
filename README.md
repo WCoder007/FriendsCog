@@ -1,6 +1,5 @@
 # FriendsCog :two_women_holding_hands:
-
-## Connect.Challenge.Conquer
+### Connect.Challenge.Conquer
 
 Team T.R.I.A.D 's entry for Hackverse 2.0
 
