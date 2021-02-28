@@ -10,7 +10,7 @@ In the times of pandemic we all are secluded from each other and it is very freq
 * Let's Connect
 * Let's Go Contactless
 
-## What Should the App Be Able To Do?
+## Functions
 * Allow users to record the tasks to be completed
 * A separate task manager for every user to keep a track of their progress
 * Send the user notifications to remind them to complete their tasks
@@ -25,12 +25,12 @@ In the times of pandemic we all are secluded from each other and it is very freq
 * Django
 * Python
 
-## Installation Steps
+## Steps for Installation and Setup
 
 Follow the instructions below to run the application:
 1. Clone the repository 
   
-  `git clone`
+  `git clone https://github.com/WCoder007/FriendsCog.git`
 2. install all dependancies, preferably in a virtual environment.
 
     `python -m pip install Django`
