@@ -15,8 +15,8 @@ In the times of pandemic we all are secluded from each other and it is very freq
 * A separate task manager for every user to keep a track of their progress
 * Send the user notifications to remind them to complete their tasks
 * Live leaderboard of friends to see what percentage of tasks are completed
-* Rewards/Achievements/Badges
-* A calender function to improve productivity
+* Rewards/Achievements/Badges for Best performers
+* A calender to help you schedule future tasks and improve productivity
 
 ## TechStack
 * HTML
