@@ -36,7 +36,8 @@ Follow the instructions below to run the application:
 4. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
 
 ## Screenshot
-[image](https://user-images.githubusercontent.com/56690803/109407841-2e1d3780-79aa-11eb-830c-d837a7b21b63.png)
+![WhatsApp Image 2021-02-28 at 9 58 09 AM](https://user-images.githubusercontent.com/56690803/109408005-9587b700-79ab-11eb-9b81-671e89b6b50d.jpeg)
+
 
 
 
