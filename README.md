@@ -40,7 +40,8 @@ Follow the instructions below to run the application:
 ## Future Plannings
 
 1. Add app facility for notifications.
-2. Add games,chat box and other stuff to make it more interactive.
+2. Add games,chat box,etc to make it more interactive.
+3. Connect with healthcare apps in order to track heath related tasks and give reminders.
 
 
 ## Screenshots
