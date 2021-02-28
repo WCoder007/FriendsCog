@@ -9,16 +9,25 @@ A web app that helps friends connect and motivate each other to complete their t
 * Send the user notifications to remind them to complete their tasks
 * Live leaderboard of friends to see what percentage of tasks are completed
 * Rewards/Achievements/Badges
-* (If we have time) A social media function where people can share their achievments
+* A calender function to improve productivity
 
 ## TechStack
 * HTML
 * CSS
 * JS
-* Figma for UI
-
-## Libraries and dependencies
+* Djando
+* Python
 
 ## Installation Steps
+
+Follow the instructions below to run the application:
+1. Clone the repository and install all dependancies, preferably in a virtual environment.
+
+    `pip install -r requirements.txt`
+2. cd TODO
+3. Run the application
+
+    `python manage.py runserver`
+4. You can visit the web app at [localhost:(http://127.0.0.1:8000/)](http://127.0.0.1:8000/) in your browser
 
 
