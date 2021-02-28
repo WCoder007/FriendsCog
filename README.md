@@ -34,7 +34,7 @@ Follow the instructions below to run the application:
  
 2. install all dependancies, preferably in a virtual environment.
 
-    `python -m pip install Django`
+    `python -m pip install Django==3.2.1`
 3. cd TODO
 4. Run the application
 
